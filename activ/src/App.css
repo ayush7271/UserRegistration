@@ -1,0 +1,21 @@
+.Navbar{
+  height: 60px;
+  width: 100%;
+  background-color: orange;
+  display: flex;
+  justify-content: space-around;
+}
+.but-1{
+  height: 30px;
+  width: auto;
+  background-color: rgb(23, 18, 18);
+  border-radius: 5px;
+  color: white;
+}
+a{
+  text-decoration: none;
+}
+
+table,tr,th,td{
+  border: 1px solid black;
+}
